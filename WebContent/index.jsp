@@ -11,5 +11,9 @@
 <body>
 	<h3>폐기 기능</h3>
 	<P>폐기 기능은 commit 하기 전 상태의 파일을 완전히 삭제하는 기능이다.</P>
+	
+	<h3>commit 한 내용을 취소하고 싶다면</h3>
+	<p>1. 브랜치 초기화</p>
+	<p>2. reverse commit</p>
 </body>
 </html>
